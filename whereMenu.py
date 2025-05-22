@@ -1,0 +1,7 @@
+menuReject = "Lixo comum, orgânico ou rejeito"
+menuPaper = "Papel, Plástico, Vidro e Metal"
+menuWood = "Móveis, Madeiras e Pequenas quantidades de entulho"
+menuEletronics = "Eletrônicos, Pilhas, Baterias e Lâmpadas"
+menuOil = "Óleo Vegetal"
+menuMedicine = "Remédios vencidos, Seringas e outros hospitalares"
+menuNonRecyclable = "Celofane, Embalagens Plásticas Metalizadas, Extratos Bancários e Papel Carbono"
